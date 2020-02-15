@@ -1,6 +1,6 @@
 # <font color='blue'>Overview - Add code below</font>
 ## <font color='red'>About NFL - Add code below</font>
-### The National Football League is
+### The National Football League
 America's most popular sports league, comprised of 32 franchises that compete each year to win the Super Bowl, the world's biggest annual sporting event. Founded in 1920, the NFL developed the model for the successful modern sports league, including national and international distribution, extensive revenue sharing, competitive excellence, and strong franchises across the country.
 ### Since 1960, Super Bowl is held as an annual championship game of the National Football League (NFL) played between mid-January and early February. It is the culmination of a regular season that begins in the late summer of the previous year
 ### In this project, we used ETL (Extract, Transform, Load) database functions to observe Superbowl history from 1967 to 2020. We tried to determine the trend for the annual MVP of the game by analysing  the MVP's physical attributes such as average weight, height and age. We also look if
