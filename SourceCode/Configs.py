@@ -1,11 +1,11 @@
 # API Key(s)
 
 # Google API Key
-g_key = "Your Key"
+g_key = ""
 
 
 # Database(s)
 
 # Postgres SQL DB user & password 
-db_user = "DB User"
-db_password = "DB Password"
+db_user = "postgres"
+db_password = ""
