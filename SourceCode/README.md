@@ -20,18 +20,18 @@ America's most popular sports league, comprised of 32 franchises that compete ea
 ### 6. Sorted data frame based on date to assign a numeric ID
 ### 7. Function to convert to a roman numeral number
 ### 8. Rename columns to match database and prepare for join
-## <font color='red'>TRANSFORM - Add code below</font>
+## <font color='red'>TRANSFORM</font>
 ### 1. Converting weight into float, height into integer from players DB.
 ### 2. After both tables were merged we discovered there was still duplicate players that matched the same name as the mvp winner.
 ### 3. Sorted data frame based on date to assign a numeric ID
 ### 4. Function to convert to a roman numeral number
 ### 5. After both databases were joined we had to calculate the mvp's player age at the time of the Superbowl win.
 ### 6. Create a player max value function that would filter out players with the same name as mvp that were born prior to the super bowl date. Also within that function we will assign a different unique ID to these selected players. This allowed us to match the superbowl mvp player data with the most accuracy given the information we have.
-## ## <font color='red'>LOAD - Add code below</font>
+##  <font color='red'>LOAD</font>
 ### 1. A heatmap was created to visualize all of the places where a Superbowl event was hosted from 1967-2020 using a google places API.
 ### 2. We selected this to show different facts from Superbowl venue statistics.
 ### 3. We determined that a majority of Superbowls took place in warm sunny locations and conditions.
-database name: nfl_db
+### database name: nfl_db
 
 
 
